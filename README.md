@@ -1,5 +1,7 @@
 # Time-Series-and-Prediction
 
+In this Repository I take a look at some of the unique considerations involved when handling sequential time series data -- where values change over time, like the temperature on a particular day, or the number of visitors to a web site. I am using various methodologies for predicting future values in these time series.
+
 ## [Forecasting with generated time series](https://github.com/MarcoStallmann/Time-Series-and-Prediction/blob/4446dbae38c5dd9ba33aca71860aeec16377d4b8/Forecasting%20with%20generated%20time%20series/Forecasting%20with%20generated%20time%20series.ipynb)
 
 In this Notebook we will be working with time series data. All of the data is going to be generated and we will implement several functions to split the data, create forecasts and evaluate the quality of those forecasts.
