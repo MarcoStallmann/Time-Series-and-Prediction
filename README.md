@@ -25,3 +25,7 @@ In the previous Notebook we used a vanilla deep neural network to create forecas
 ## [Monte Carlo Simulation with Stock price](https://github.com/MarcoStallmann/Time-Series-and-Prediction/blob/b0ba369f615d0b005a4017f40112946ececa7e55/Monte%20Carlo%20Simulation%20with%20Stock/monte-carlo-simulation-with-stock.ipynb)
 
 Here we are doing a Monte Carlo Simulation with stock prices time series, downloaded from Yahoo Finance.
+
+## [Hybrid models with Store sales time series](https://github.com/MarcoStallmann/Time-Series-and-Prediction/blob/39368774171efc8fb875010d2381aff62d03202c/Hybrid%20models%20with%20Store%20Sales%20time%20series/hybrid-models-with-store-sales.ipynb)
+
+In this Notebook we will create a boosted hybrid for the Store Sales dataset by implementing a new Python class. 
