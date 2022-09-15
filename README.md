@@ -4,6 +4,9 @@
 
 In this Repository I take a look at some of the unique considerations involved when handling sequential time series data -- where values change over time, like the temperature on a particular day, or the number of visitors to a web site. I am using various methodologies for predicting future values in these time series.
 
+## [Forecasting climate change with NY temperature data](https://github.com/MarcoStallmann/Time-Series-and-Prediction/blob/4ed589dbd2480dc5d6c1274947d2abc9ee04ebad/Forecasting%20climate%20change%20with%20NY%20temperature%20data/Forecasting%20climate%20change%20with%20NY%20temperature%20data.ipynb)
+In this notebook we analyze New York City average annual temperature data from 1870 to 2016. The data was downloaded from the National Oceanic and Atmospheric Administration (NOAA) website. Using the Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF) of the data, we fit Autoregression (AR), Moving Average (MA) and ARMA models to the data and use an Information Criterion to choose the best model. With this we can forecast temperatures of the next 30 years.
+
 ## [Forecasting with generated time series](https://github.com/MarcoStallmann/Time-Series-and-Prediction/blob/4446dbae38c5dd9ba33aca71860aeec16377d4b8/Forecasting%20with%20generated%20time%20series/Forecasting%20with%20generated%20time%20series.ipynb)
 
 In this Notebook we will be working with time series data. All of the data is going to be generated and we will implement several functions to split the data, create forecasts and evaluate the quality of those forecasts.
